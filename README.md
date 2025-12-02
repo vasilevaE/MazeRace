@@ -1,16 +1,3 @@
 # mazerace_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+MazeRace is a simple maze game in which the mouse must reach the cheese. It was originally developed to work with OpenEarable—an open-source, Arduino-based platform for ear-based sensing applications—which requires a special headset to allow the player to control the game using head movements. In this version, head-movement controls have been replaced with on-screen buttons for simpler gameplay.
